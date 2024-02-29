@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MemoryManagment\MemoryManagment\bin\Debug\net6.0\MemoryManagment.exe
+C:\Users\user\source\repos\MemoryManagment\MemoryManagment\bin\Debug\net6.0\MemoryManagment.deps.json
+C:\Users\user\source\repos\MemoryManagment\MemoryManagment\bin\Debug\net6.0\MemoryManagment.runtimeconfig.json
+C:\Users\user\source\repos\MemoryManagment\MemoryManagment\bin\Debug\net6.0\MemoryManagment.dll
+C:\Users\user\source\repos\MemoryManagment\MemoryManagment\bin\Debug\net6.0\MemoryManagment.pdb
+C:\Users\user\source\repos\MemoryManagment\MemoryManagment\obj\Debug\net6.0\MemoryManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MemoryManagment\MemoryManagment\obj\Debug\net6.0\MemoryManagment.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MemoryManagment\MemoryManagment\obj\Debug\net6.0\MemoryManagment.AssemblyInfo.cs
+C:\Users\user\source\repos\MemoryManagment\MemoryManagment\obj\Debug\net6.0\MemoryManagment.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MemoryManagment\MemoryManagment\obj\Debug\net6.0\MemoryManagment.dll
+C:\Users\user\source\repos\MemoryManagment\MemoryManagment\obj\Debug\net6.0\refint\MemoryManagment.dll
+C:\Users\user\source\repos\MemoryManagment\MemoryManagment\obj\Debug\net6.0\MemoryManagment.pdb
+C:\Users\user\source\repos\MemoryManagment\MemoryManagment\obj\Debug\net6.0\MemoryManagment.genruntimeconfig.cache
+C:\Users\user\source\repos\MemoryManagment\MemoryManagment\obj\Debug\net6.0\ref\MemoryManagment.dll
